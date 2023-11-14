@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup   this is normal code of this app
 # from lxml import html
 # import os
 # import requests
